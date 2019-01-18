@@ -1,0 +1,7 @@
+C:\C#.NET代码\打地鼠小程序\打地鼠小程序\bin\Debug\打地鼠小程序.exe
+C:\C#.NET代码\打地鼠小程序\打地鼠小程序\bin\Debug\打地鼠小程序.pdb
+C:\C#.NET代码\打地鼠小程序\打地鼠小程序\obj\x86\Debug\打地鼠小程序.Form1.resources
+C:\C#.NET代码\打地鼠小程序\打地鼠小程序\obj\x86\Debug\打地鼠小程序.Properties.Resources.resources
+C:\C#.NET代码\打地鼠小程序\打地鼠小程序\obj\x86\Debug\打地鼠小程序.csproj.GenerateResource.Cache
+C:\C#.NET代码\打地鼠小程序\打地鼠小程序\obj\x86\Debug\打地鼠小程序.exe
+C:\C#.NET代码\打地鼠小程序\打地鼠小程序\obj\x86\Debug\打地鼠小程序.pdb
