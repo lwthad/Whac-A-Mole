@@ -3,7 +3,7 @@
 
 <b>用的C#.net实现</b>
 
-<img src="https://img-blog.csdnimg.cn/20190118231409200.png" />
+<img src="https://img-blog.csdnimg.cn/20190118233920701.png" />
 <br>
 <b>游戏结束</b><br>
 <img src="https://img-blog.csdnimg.cn/20190118231419864.png" />
